@@ -1,9 +1,10 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+// import ThankYouText from "src/components/ThankYouText";
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+<!--    <ThankYouText />-->
+    <div></div>
   </main>
 </template>
